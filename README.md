@@ -1,17 +1,4 @@
 # Hi there, I'm Yaroslav! 👋
-
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-I am a Full Stack Developer focusing on designing and developing scalable web applications and microservices. My core priorities are clean architecture, high database performance, and managing the full software development lifecycle—from design to production deployment.
-
-* 🌍 Based in: **Brest, Belarus**
-* 🗣️ Languages: **English (B2)** · **Belarusian (Native)** · **Russian**
-
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -34,39 +21,26 @@ I am a Full Stack Developer focusing on designing and developing scalable web ap
 
 <p align="left">
   <!-- Backend -->
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Spring" />
-  <img src="https://shields.io" alt="Kafka" />
-  <img src="https://shields.io" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <br/>
   <!-- Frontend -->
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Redux" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <br/>
   <!-- Cloud & DB -->
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Kubernetes" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-* **Telegram:** [Message Me](https://t.me)
+* **Telegram:** [Message Me](https://t.me/yaraslau_the_wise)
 * **Email:** jar.vladimirovich@gmail.com
