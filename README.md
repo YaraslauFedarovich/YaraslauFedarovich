@@ -68,5 +68,5 @@ I am a Full Stack Developer focusing on designing and developing scalable web ap
 ---
 
 ### 📫 Connect with me
-* **Telegram:** [Message Me](https://t.me/yaraslau_the_wise)
+* **Telegram:** [Message Me](https://t.me)
 * **Email:** jar.vladimirovich@gmail.com
